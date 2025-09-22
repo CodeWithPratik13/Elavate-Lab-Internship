@@ -1,5 +1,4 @@
-# calculator.py
-# Python Developer Internship - Task 1: CLI Calculator
+# Task 1: CLI Calculator
 
 def add(a, b):
     return a + b
